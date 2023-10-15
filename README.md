@@ -1,3 +1,31 @@
+<img class="banner" src="https://your-banner-image-url.com" alt="Banner Image">
+
+    <div class="container">
+        <h1>Hi 👋, I'm Shubham Narkhede</h1>
+        <h3>"Exploring the World of Code, One Commit at a Time"</h3>
+
+        <div class="row">
+            <div class="col">
+                <h3>About Me</h3>
+                <p>
+                    I'm a dedicated and results-driven DevOps Engineer with extensive experience in creating innovative software solutions. Currently, I'm working on EV Hardware and Services at Robert Bosch GmbH in Germany. My passion for technology drives me to continually expand my knowledge through various frameworks and courses. You can explore my projects and articles on my website, and feel free to reach out to me if you have questions about DevOps, Angular, React, Vue, UI/UX, Android/iOS, or backend languages.
+                </p>
+            </div>
+
+            <div class="col">
+                <h3>Contact Information</h3>
+                <p>
+                    - 📫 Email: shubhampnarkhede@gmail.com<br>
+                    - 👨‍💻 [Explore My Projects](https://shubhamnarkhede.vercel.app/)<br>
+                    - 📝 [Read My Articles](https://github.com/spnarkhede/spnarkhede-blogs)<br>
+                    - 📄 [My Experiences](https://shubhamnarkhede.vercel.app/static/media/portfolio.fd7b0178.pdf)<br>
+                    - ⚡ Fun Fact: I've automated so many tasks in my life that even my coffee maker now brews a perfect cup of coffee with a single click.
+                </p>
+            </div>
+        </div>
+    </div>
+
+
 <h1 align="center">Hi 👋, I'm Shubham Narkhede</h1>
 <h3 align="center">"Exploring the World of Code, One Commit at a Time"</h3>
 
